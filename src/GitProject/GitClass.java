@@ -5,6 +5,8 @@ public class GitClass {
 		System.out.println("This is GIT Method 1");
 		System.out.println("This is GIT Method 2");
 		System.out.println("This is GIT Method 3");
+		System.out.println("This is GIT Method 4");
+
 	}
 
 	public static void main(String[] args) {
